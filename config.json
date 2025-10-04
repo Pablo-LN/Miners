@@ -1,0 +1,17 @@
+{
+  "selected": [],
+  "algo_list": [
+    {
+      "id": "npt-gpu",
+      "algo": "neptune",
+      "pool": "stratum+ssl://eu.poolhub.io:4444",
+      "worker_name": "worker",
+      "address": "кошель",
+      "config": {
+        "type": "gpu",
+        "option": "all"
+      },
+      "idle_algos": null
+    }
+  ]
+}
